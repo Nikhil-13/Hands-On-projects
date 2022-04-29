@@ -1,2 +1,2 @@
 # Hands-On-projects
-Minimal Scale Projects 
+Minimal Scale Projects just for demonstration.
